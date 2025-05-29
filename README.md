@@ -19,7 +19,7 @@ I'm excited about the potential of **AI 🤖 and machine learning** to transform
 
 ### 📁 Projects
 Here you can see my projects where I apply new skills to analyze data, build visualizations, and practice problem-solving.
-🔗 [Project](https://www.datascienceportfol.io/dsabhishek)
+### 👉🔗[Project](https://www.datascienceportfol.io/dsabhishek)
 
 ---
 
