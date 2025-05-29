@@ -7,26 +7,31 @@ I'm excited about the potential of **AI 🤖 and machine learning** to transform
 ---
 
 ### 💼 What I’m Working On
-- 🔎 Writing and optimizing queries using **SQL**
-- 📊 Creating dashboards with **Tableau** and **Looker Studio**
-- 🧮 Performing data analysis and reporting in **Google Sheets** and **Excel**
-- 🐍 Exploring **Python** libraries like Pandas, NumPy, and Matplotlib
-- 💡 Learning to use **R** for statistics and visualization
-- 🚀 Building projects with **JavaScript** and **React.js** to combine analytics with interactive web apps
+- 🔎 Writing and optimizing queries using **MySQL,PostgreSQL**    
+- 📊 Creating interactive dashboards with **Tableau** and **Looker Studio**
+- 📈 Performing data analysis using **Python** with **Pandas**, and **NumPy**
+- 📉 Visualizing data and exploring statistics with **Matplotlib**, **Seaborn**, and **Plotly**
+- ⚙️ Automating workflows and reporting with **Jupyter Notebooks** and **Streamlit**
+- 🚀 Building data-driven web apps using **Streamlit**, previously worked with **JavaScript** and **React.js**
+
 
 ---
 
 ### 📁 Projects
 Here you can see my projects where I apply new skills to analyze data, build visualizations, and practice problem-solving.
 
+
 ---
 
 ### 🛠️ Tools & Technologies
 
-**💻 Languages:**  
-SQL, Python, R, JavaScript
+**💻 Languages (used in Data Analytics):**  
+SQL, Python, R, MATLAB
 
-**🗄️ Databases:**  
+**📦 Libraries & Tools:**  
+Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+
+**🗄️ Databases & Warehouses:**  
 Google BigQuery, PostgreSQL, MySQL
 
 **📊 Visualization Tools:**  
@@ -45,7 +50,7 @@ Focused on gaining skills at the intersection of **data analysis, automation, an
 ### 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinest/) 
-- 📧 [Email](73579.abhishek@gmail.com)
+- 📧 [Email]:73579.abhishek@gmail.com
 
 ---
 
