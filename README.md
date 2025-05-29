@@ -44,8 +44,8 @@ Focused on gaining skills at the intersection of **data analysis, automation, an
 
 ### 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhinest/)  
-- 🧑‍💻 [Portfolio](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhinest/) 
+- 📧 [Email](73579.abhishek@gmail.com)
 
 ---
 
