@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Abhishek
 
-Building a career as a Data Analyst 🔍, passionate about transforming complex data into clear, actionable insights 📊 that drive smarter business decisions. Developing skills in SQL 🗃️, Python 🐍, and data visualization 📈, applying them to solve real-world problems and uncover meaningful patterns.
-
+Data Analyst 🔍 passionate about transforming complex data into clear, actionable insights 📊 that drive smarter business decisions. Skilled in SQL 🗃️, Python 🐍, and data visualization 📈, applying them to solve real-world problems and uncover meaningful patterns.
 Driven by the transformative power of AI 🤖 and machine learning 📡, exploring advanced techniques to enhance predictive analytics and automate data-driven processes. Committed to continuous learning 📚 and innovation 💡 to leverage data for measurable impact and strategic growth 🚀
 
 ---
 
 ### 💼 What I’m Working On
 - 🔎 Writing and optimizing queries using **MySQL,PostgreSQL**    
-- 📊 Creating interactive dashboards with **Tableau** and **Looker Studio**
+- 📊 Creating interactive dashboards with **Tableau,PowerBI** and **Looker Studio**
 - 📈 Performing data analysis using **Python** with **Pandas**, and **NumPy**
 - 📉 Visualizing data and exploring statistics with **Matplotlib**, **Seaborn**, and **Plotly**
 - ⚙️ Automating workflows and reporting with **Jupyter Notebooks** and **Streamlit**
