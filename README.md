@@ -18,7 +18,7 @@ Driven by the transformative power of AI 🤖 and machine learning 📡, explori
 
 ### 📁 Projects
 Here you can see my projects where I apply new skills to analyze data, build visualizations, and practice problem-solving.
-### 👉🔗[Project](https://www.datascienceportfol.io/dsport)
+### 👉🔗[Project](https://www.datascienceportfol.io/gt)
 
 ---
 
@@ -52,8 +52,8 @@ Focused on gaining skills at the intersection of **data analysis, automation, an
 - 📧 Email:73579.abhishek@gmail.com
 
 ---
-
-Thanks for stopping by! 😊  
-Excited to learn and grow in the data world.
+Thanks for visiting! 🙌
+Feel free to explore my repositories and connect! 💻✨
+Excited to learn and grow in the data world. 📊🚀
 
 
